@@ -1,0 +1,11 @@
+{
+  "appId": "com.adminpanel.app",
+  "appName": "Admin Panel",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
